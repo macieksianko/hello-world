@@ -1,3 +1,3 @@
 # hello-world
 Hi
-My name is Maciek. I like programming microcontrollers using C.
+I am Maciek. Welcome to my github :) 
